@@ -25,5 +25,9 @@ public class BackyardActivity extends AppCompatActivity implements View.OnClickL
         
     }
 
+    @Override
+    public void onClick(View v) {
+
+    }
 }//end of class
 

@@ -29,10 +29,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="As you walk into the backyard a net scoops you up and a giant takes you to a boiling pot of water."
-        android:textSize="30sp" />
+        android:textSize="25sp" />
 
     <Space
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="15dp" />
 
     <TextView
@@ -40,7 +40,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="As the man starts to prepare you a soup do you 'scream' or 'faint'?"
-        android:textSize="30sp" />
+        android:textSize="25sp" />
 
     <Space
         android:layout_width="match_parent"

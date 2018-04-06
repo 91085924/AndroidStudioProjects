@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.palmdigital.chooseyourownadventurev01.ToiletActivity">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="15dp" />
+
+    <TextView
+        android:id="@+id/tvTitleToilet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Choose Your Own Adventure_v01" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="15dp" />
+
+    <TextView
+        android:id="@+id/tvStoryToilet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="15dp" />
+
+    <TextView
+        android:id="@+id/tvQuestionToilet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+</LinearLayout>
