@@ -20,9 +20,9 @@
         <activity android:name=".ExploreActivity" />
         <activity android:name=".BackyardActivity" />
         <activity android:name=".FeintActivity" />
-        <activity android:name=".ScreamActivity" />
         <activity android:name=".ToiletActivity" />
-        <activity android:name=".YesActivity"></activity>
+        <activity android:name=".YesActivity" />
+        <activity android:name=".HeckYesActivity"></activity>
     </application>
 
 </manifest>

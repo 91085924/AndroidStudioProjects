@@ -25,7 +25,7 @@ public class BackyardActivity extends AppCompatActivity implements View.OnClickL
     {
         if (v.getId() == R.id.buttonLeftScream)
         {
-            Intent i = new Intent(this,ScreamActivity.class);
+            Intent i = new Intent(this,MainActivity.class);
             startActivity(i);
         }
 

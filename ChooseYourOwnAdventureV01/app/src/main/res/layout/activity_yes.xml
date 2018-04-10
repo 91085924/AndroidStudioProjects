@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="?android:attr/colorAccent"
+    android:background="@android:color/holo_blue_dark"
     android:orientation="vertical"
     tools:context="com.example.palmdigital.chooseyourownadventurev01.YesActivity">
 
@@ -24,7 +24,7 @@
         android:layout_height="15dp" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/tvStoryYes"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text='"Awesome dude!  You live out the rest of your life fighting crimes and eating pizza!"'
